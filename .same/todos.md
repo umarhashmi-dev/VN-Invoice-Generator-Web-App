@@ -4,7 +4,7 @@
 - [completed] Set up basic project structure and file organization
 - [completed] Create main layout with navbar and footer
 - [completed] Implement responsive design with Tailwind CSS
-- [completed] Set up routing with Next.js
+- [completed] Set up routing with Next.js.
 
 ## Pages
 - [completed] Create homepage with hero section
